@@ -1,0 +1,21 @@
+Objetivo do Campeonato.
+  - Qual o real motivo da criação do Campeonato? Obter Lucro? Somente Organizar para amigos?
+
+Pontos Organizacionais.
+  - Deixar claro para os participantes sobre o Objetivo do Campeonato.
+  - Deixar claro quem são as pessoas da comissão organizadora e os canais (email, telefone) para resolução de problemas.
+  - Creio q seja necessário a criação de uma comissão julgadora (capitão ou outro responsavel pelo time)
+  - Verificar a questão de expulsao do time, se o time pode expulsar o jogador ou se teria que passar por um julgamento da comissão  organizadora e julgadora. Acho bem valido essa questão pois sofri dessa falta de organização do campeonato.
+
+Pontos Jurídicos.
+  - Contrato juridico de responsabilidade caso a pessoa se machuque nos jogos do campeonato ou em eventos e festas sob a organização e queira pedir indenização. 
+  - Verificar a questão da falsificação de identidade visual de times profissionais.
+  - Termo de autorização da utilização de imagens pessoais dos jogadores e profissionais envolvidos (juizes).
+  - Verificar se precisa de algum tipo de autorização para realizar campeonatos desportivos, verificar com arbitros também algum tipo de problema.
+
+Pontos Tecnologicos.
+  -Exibir logomarcas
+  -Explicar sobre o Site
+  -Explicar sobre Custos
+  -Levantar Requisitos e Prioridades do Site 
+  
