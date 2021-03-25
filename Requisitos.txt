@@ -53,14 +53,14 @@ Blog com comentarios
 Pagina de patrocinadores/ parcerias comerciais/ descontos
 
 Estatisticas
-Graficos
-Artilharia
-Goleiro menos vazado
-Maiores comprometidos
-Trofeu fairplay
-Jogador com mais cartoes
-Mais assistencias
-Maiores expulsos
-Melhores e piores batedores de penalts 
+  Graficos
+  Artilharia
+  Goleiro menos vazado
+  Maiores comprometidos
+  Trofeu fairplay
+  Jogador com mais cartoes
+  Mais assistencias
+  Maiores expulsos
+  Melhores e piores batedores de penalts 
 
 
