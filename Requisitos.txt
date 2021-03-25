@@ -45,8 +45,9 @@ Pagina de Aniversariantes do mês / semana
 
 Pagina com os regulamentos
 
-Pagina de noticias das rodadas
-Entrevistas
+Página de Notícias 
+  Resumo da Rodada
+  Entrevistas com os jogadores	
 
 Blog com comentarios
 
