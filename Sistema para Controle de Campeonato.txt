@@ -1,4 +1,4 @@
-Sistema para controle de campeonato de futebol
+Sistema para Controle de Campeonato de Futebol
 
 O sistema deverá ter as seguintes funcionalidades:
 
