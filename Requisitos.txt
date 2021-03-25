@@ -29,9 +29,10 @@ Pagina Proxima rodada
 
 Video da rodada com melhores jogadas
 
-Votacao gol mais bonito da rodada
-
-Votação do melhor jogador da rodada.
+Página de Votação
+  Votacao gol mais bonito da rodada
+  Votação do melhor jogador da rodada
+  Votação do melhor goleiro da rodada
 
 Pagina de sorteio de jogadores?
 
@@ -52,8 +53,8 @@ Blog com comentarios
 
 Pagina de patrocinadores/ parcerias comerciais/ descontos
 
-Estatisticas
-  Graficos
+Pagina de Estatísticas
+  Gráficos
   Artilharia
   Goleiro menos vazado
   Maiores comprometidos
