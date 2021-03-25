@@ -1,0 +1,74 @@
+Sistema para controle de campeonato de futebol
+
+O sistema deverá ter as seguintes funcionalidades:
+
+Cadastro de campeonato (administradores)
+  Data
+  Nome do campeonato
+  Time Campeão
+  Time Vice Campeão
+
+Cadastro de Time (administradores)
+  Nome do time
+  Imagem do Brasão
+  Cor do Time
+  Foto do Time 
+  Lista de jogadores do Time
+
+Cadastro de Jogadores (administradores, importação via excel)
+  Foto
+  Nome Completo
+  Apelido
+  CPF 
+  Data Nascimento
+  Email
+  Telefone
+  Telefone Emergencia
+  Contato Emergencia
+  Número da camisa
+  Time
+  Classificação habilidade (A, B, C, D) ou pontos (0-100)
+
+Página para sorteio de jogadores?
+
+Página para sorteio ou cadastro de chaves?
+
+Página de Atualização da Rodada (administradores)
+  Atualização de jogos com upload de súmula
+  Jogo, Placar, Gols por Jogador
+
+Página da Rodada (publico)
+  Notícia das rodadas
+  Vídeo da rodada com as melhores jogadas
+  Vídeo dos jogos
+  Entrevistas
+  Comentarios (dos jogos, da entrevista, etc)
+  Resultado dos jogos
+  Classificação
+  Gol da rodada, Melhor e pior jogador, melhor goleiro 
+  Aniversariantes da Rodada
+
+Página de Votação
+  Votacao gol mais bonito da rodada
+  Votação do melhor jogador da rodada
+  Votação do melhor goleiro da rodada
+  Votação do pior jogador da rodada  
+
+Página Próxima Rodada
+  Jogos da Próxima Rodada
+ 
+Página de Patrocinadores
+  Parcerias comerciais
+    Descontos
+
+Página de Regulamentos
+
+Página de Estatísticas do Torneio
+  Gráficos Evolução do Campeonato (%)
+  Gols marcados por Jogador (Artilharia)
+  Goleiro menos vazado
+  Jogadores mais violentos (Cartões)
+  Jogadores com mais assistencias
+  Melhores e piores batedores de penaltis 
+
+
