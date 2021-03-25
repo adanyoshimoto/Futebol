@@ -5,7 +5,7 @@ O sistema deverá ter as seguintes funcionalidades:
 Cadastro de campeonato
   Data
   Nome do campeonato
-  Time campeao
+  Time campeão
 
 Cadastro de Time
   Nome do time
@@ -15,14 +15,14 @@ Cadastro de Time
   Lista de jogadores do Time
 
 Cadastro de jogadores 
-Foto
-Nome
-Apelido
-Cpf 
-Data nascimento
-Número da camisa
-Escolha de time
-Classificação habilidade (A, B, C, D) ou pontos (0-100)
+  Foto
+  Nome Completo
+  Apelido
+  CPF 
+  Data Nascimento
+  Número da camisa
+  Time
+  Classificação habilidade (A, B, C, D) ou pontos (0-100)
 
 
 Pagina Proxima rodada
