@@ -27,7 +27,7 @@ Cadastro de Jogadores (administradores, importação via excel)
   Contato Emergencia
   Número da camisa
   Time
-  Classificação habilidade (A, B, C, D) ou pontos (0-100)
+  Classificação habilidade (A, B, C, D, E) ou pontos (0-100)
 
 Página para sorteio de jogadores?
 
@@ -37,7 +37,7 @@ Página de Atualização da Rodada (administradores)
   Atualização de jogos com upload de súmula
   Jogo, Placar, Gols por Jogador
 
-Página da Rodada (publico)
+Página da Rodada (público)
   Notícia das rodadas
   Vídeo da rodada com as melhores jogadas
   Vídeo dos jogos
@@ -48,22 +48,22 @@ Página da Rodada (publico)
   Gol da rodada, Melhor e pior jogador, melhor goleiro 
   Aniversariantes da Rodada
 
-Página de Votação
+Página de Votação (público)
   Votacao gol mais bonito da rodada
   Votação do melhor jogador da rodada
   Votação do melhor goleiro da rodada
   Votação do pior jogador da rodada  
 
-Página Próxima Rodada
+Página Próxima Rodada (público)
   Jogos da Próxima Rodada
  
-Página de Patrocinadores
+Página de Patrocinadores (público)
   Parcerias comerciais
     Descontos
 
-Página de Regulamentos
+Página de Regulamentos (público)
 
-Página de Estatísticas do Torneio
+Página de Estatísticas do Torneio (público)
   Gráficos Evolução do Campeonato (%)
   Gols marcados por Jogador (Artilharia)
   Goleiro menos vazado
