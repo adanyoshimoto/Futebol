@@ -51,9 +51,11 @@ Entrevistas
 Blog com comentarios
 
 
-Pagina de patrocinadores/ parcerias comerciais/ descontos
+Página de Patrocinadores
+  Parcerias comerciais
+    Descontos
 
-Pagina de Estatísticas
+Página de Estatísticas
   Gráficos
   Artilharia
   Goleiro menos vazado
